@@ -864,6 +864,7 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>$safeprojectname$.Properties</CustomToolNamespace>
     </EmbeddedResource>
     <Compile Include="Properties\Issues.Designer.cs">
       <DependentUpon>Issues.resx</DependentUpon>
@@ -873,6 +874,7 @@
     <EmbeddedResource Include="Properties\Issues.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Issues.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>$safeprojectname$.Properties</CustomToolNamespace>
     </EmbeddedResource>
     <Compile Include="Properties\Definitions.Designer.cs">
       <DependentUpon>Definitions.resx</DependentUpon>
@@ -882,6 +884,7 @@
     <EmbeddedResource Include="Properties\Definitions.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Definitions.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>$safeprojectname$.Properties</CustomToolNamespace>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
