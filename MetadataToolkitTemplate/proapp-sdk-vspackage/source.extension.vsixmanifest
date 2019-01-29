@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="MetadataToolkitVSPackage.697e33b6-b6ff-4765-af9d-e9086474ee49" Version="2.3.0.0" Language="en-US" Publisher="ArcGIS Pro SDK team" />
+        <Identity Id="MetadataToolkitVSPackage.697e33b6-b6ff-4765-af9d-e9086474ee49" Version="2.3.0.15769" Language="en-US" Publisher="ArcGIS Pro SDK team" />
         <DisplayName>ArcGIS Pro Metadata Toolkit</DisplayName>
-        <Description xml:space="preserve">ArcGIS Pro Metadata Toolkit</Description>
+        <Description xml:space="preserve">A project template to create an ArcGIS Pro Metadata add-in.</Description>
         <!--<MoreInfo>https://pro.arcgis.com/en/pro-app/sdk/</MoreInfo>-->
         <License>Eula.rtf</License>
         <Icon>ArcGIS_Product_Icon.ico</Icon>
